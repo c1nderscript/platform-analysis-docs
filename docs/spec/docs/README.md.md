@@ -4,7 +4,7 @@
 Introduces the documentation subsystem and provides setup instructions.
 
 ## Public API Surface
-Links to component docs, Rust conversion guides, and contribution guidelines.
+Links to component docs, Rust conversion guides, migration progress dashboard, and contribution guidelines.
 
 ## Type & Trait/Class Map
 N/A

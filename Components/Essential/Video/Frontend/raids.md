@@ -351,5 +351,7 @@ const monitorRaidHealth = () => {
 ## Documentation Status
 ✅ **Complete** - Comprehensive architecture and mechanics documentation
 
----
+## Backlinks
+- [[../../../../docs/migration-tickets#raids]]
+
 *See [[../../../../AGENTS]] for documentation protocol compliance*

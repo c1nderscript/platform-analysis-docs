@@ -612,6 +612,9 @@ class RoomStateManager {
 - **[[../Security/chat-security]]** - Chat security and access control
 - **[[../Performance/chat-optimization]]** - Chat performance optimization strategies
 
+## Backlinks
+- [[../../../../docs/migration-tickets#chat-hopping]]
+
 ---
 
 *This chatroom navigation architecture provides the foundation for seamless multi-room chat experiences with optimized performance, robust state management, and excellent user experience across all platforms.*

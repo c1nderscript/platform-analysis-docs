@@ -6,6 +6,10 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Initial project baseline with governance and documentation scaffolding.
 
+## [0.1.1] - 2024-06-16
+### Added
+- Migration tickets and progress dashboard for raids, bits, flairs, and chat hopping.
+
 ## Backlinks
 - [[AGENTS.md]]
 - [[plan.md]]

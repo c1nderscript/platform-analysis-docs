@@ -942,6 +942,9 @@ export const HypeTrainAccessibility: React.FC<{
 ## Documentation Status
 ✅ **Complete** - Comprehensive frontend architecture and component documentation
 
+## Backlinks
+- [[../../../../docs/migration-tickets#bits]]
+
 ---
 
 <!-- CODE_ANNOTATION: Created comprehensive hype train frontend documentation including:
