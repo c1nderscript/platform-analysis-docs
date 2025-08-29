@@ -17,6 +17,7 @@ graph TD
 ## Usage
 - Review component docs under `Components/` and `destiny.gg Docs/`.
 - Consult `RUST CONVERSION/` for migration guides.
+- Track migration progress via `progress-dashboard.md`.
 
 ## Prerequisites
 - Python 3

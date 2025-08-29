@@ -493,11 +493,14 @@ pub struct HypeTrainConfig {
 pub struct ContributionMultipliers {
     pub bits: f64,
     pub tier1_sub: f64,
-    pub tier2_sub: f64, 
+    pub tier2_sub: f64,
     pub tier3_sub: f64,
     pub gift_multiplier: f64,
 }
 ```
+
+## Backlinks
+- [[../../../../docs/migration-tickets#bits]]
 
 ---
 
