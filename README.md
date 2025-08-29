@@ -6,6 +6,10 @@
 [![Analysis Status](https://img.shields.io/badge/analysis-ready%20for%20review-blue)](https://github.com/c1nderscript/platform-analysis-docs/issues/1)
 [![Platform Comparison](https://img.shields.io/badge/platforms-twitch%20%7C%20destiny.gg-orange)](./docs/architecture/cross-comparison.md)
 
+## Repository Governance
+
+See [AGENTS](AGENTS.md), [plan](plan.md), and [toaster](toaster.md) for contribution guidelines.
+
 ## 🚀 Quick Start
 
 **New to this analysis?** Start with the [**Project Summary**](./PROJECT_SUMMARY.md) for a complete overview.
@@ -93,3 +97,10 @@
 **Next Review**: September 15, 2025
 
 *For questions or feedback, please [create an issue](https://github.com/c1nderscript/platform-analysis-docs/issues/new) or review existing [discussions](https://github.com/c1nderscript/platform-analysis-docs/issues).*
+
+## Backlinks
+- [[AGENTS.md]]
+- [[plan.md]]
+- [[toaster.md]]
+- [[docs/README.md]]
+- [[CHANGELOG.md]]
