@@ -12,6 +12,9 @@
 
 **Stakeholder Review?** Check the [**Review Issue**](https://github.com/c1nderscript/platform-analysis-docs/issues/1) for action items.
 
+<!-- Added homepage link for easy navigation -->
+🏠 Homepage
+
 ## 📁 Repository Structure
 
 ```
